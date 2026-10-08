@@ -1,0 +1,34 @@
+# Vervang GITHUB_GEBRUIKERSNAAM en REPOSITORY_NAAM na het aanmaken van de GitHub-repository.
+# GitHub OAuth-autorisatie is apart vereist; deze configuratie werkt niet zonder die koppeling.
+backend:
+  name: github
+  repo: GITHUB_GEBRUIKERSNAAM/REPOSITORY_NAAM
+  branch: main
+  # base_url: https://JOUW-VEILIGE-OAUTH-SERVICE
+  # auth_endpoint: auth
+media_folder: "images/uploads"
+public_folder: "/images/uploads"
+locale: nl
+collections:
+  - name: "catalogus"
+    label: "Catalogus"
+    files:
+      - label: "Sieraden"
+        name: "sieraden"
+        file: "data/products.json"
+        format: "json"
+        fields:
+          - label: "Producten"
+            name: "products"
+            widget: "list"
+            summary: "{{fields.name}}"
+            fields:
+              - {label: "ID (uniek)", name: "id", widget: "string"}
+              - {label: "Naam", name: "name", widget: "string"}
+              - {label: "Categorie", name: "category", widget: "select", options: ["kettingen", "armbanden", "ringen", "oorbellen", "accessoires"]}
+              - {label: "Foto", name: "image", widget: "image"}
+              - {label: "Beschrijving", name: "description", widget: "text", required: false}
+              - {label: "Prijs (bijvoorbeeld € 24,00)", name: "price", widget: "string", required: false}
+              - {label: "Materiaal", name: "material", widget: "string", required: false}
+              - {label: "Beschikbaar", name: "available", widget: "boolean", default: true}
+              - {label: "Vinted-link", name: "vinted_url", widget: "string", required: false}
