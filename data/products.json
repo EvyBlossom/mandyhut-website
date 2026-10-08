@@ -23,10 +23,10 @@
       "category": "kettingen"
     },
     {
-      "material": "",
+      "material": "Stainless Steel",
       "vinted_url": "https://www.vinted.nl/member/34138701-mandyhut",
-      "price": "",
-      "available": true,
+      "price": "19,99",
+      "available": false,
       "name": "FINNEAS Armband",
       "id": "product-03",
       "image": "/images/product-03.jpeg",
