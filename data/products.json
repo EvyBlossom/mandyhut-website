@@ -1,114 +1,114 @@
 {
   "products": [
     {
-      "id": "product-01",
+      "material": "",
+      "vinted_url": "https://www.vinted.nl/member/34138701-mandyhut",
+      "price": "",
+      "available": true,
       "name": "Birds of a Feather Duo — Zilver",
-      "category": "kettingen",
+      "id": "product-01",
       "image": "/images/product-01.jpeg",
       "description": "Productinformatie volgt.",
-      "price": "",
-      "material": "",
-      "available": true,
-      "vinted_url": "https://www.vinted.nl/member/34138701-mandyhut"
+      "category": "kettingen"
     },
     {
-      "id": "product-02",
+      "material": "",
+      "vinted_url": "https://www.vinted.nl/member/34138701-mandyhut",
+      "price": "",
+      "available": true,
       "name": "Birds of a Feather Duo — Goud",
-      "category": "kettingen",
+      "id": "product-02",
       "image": "/images/product-02.jpeg",
       "description": "Productinformatie volgt.",
-      "price": "",
-      "material": "",
-      "available": true,
-      "vinted_url": "https://www.vinted.nl/member/34138701-mandyhut"
+      "category": "kettingen"
     },
     {
-      "id": "product-03",
+      "material": "",
+      "vinted_url": "https://www.vinted.nl/member/34138701-mandyhut",
+      "price": "",
+      "available": true,
       "name": "FINNEAS Armband",
-      "category": "armbanden",
+      "id": "product-03",
       "image": "/images/product-03.jpeg",
       "description": "Productinformatie volgt.",
-      "price": "",
-      "material": "",
-      "available": true,
-      "vinted_url": "https://www.vinted.nl/member/34138701-mandyhut"
+      "category": "armbanden"
     },
     {
-      "id": "product-04",
+      "material": "",
+      "vinted_url": "https://www.vinted.nl/member/34138701-mandyhut",
+      "price": "",
+      "available": true,
       "name": "FINNEAS Ketting",
-      "category": "kettingen",
+      "id": "product-04",
       "image": "/images/product-04.jpeg",
       "description": "Productinformatie volgt.",
-      "price": "",
-      "material": "",
-      "available": true,
-      "vinted_url": "https://www.vinted.nl/member/34138701-mandyhut"
+      "category": "kettingen"
     },
     {
-      "id": "product-05",
+      "material": "",
+      "vinted_url": "https://www.vinted.nl/member/34138701-mandyhut",
+      "price": "",
+      "available": true,
       "name": "Zilveren Figuurketting",
-      "category": "kettingen",
+      "id": "product-05",
       "image": "/images/product-05.jpeg",
       "description": "Productinformatie volgt.",
-      "price": "",
-      "material": "",
-      "available": true,
-      "vinted_url": "https://www.vinted.nl/member/34138701-mandyhut"
+      "category": "kettingen"
     },
     {
-      "id": "product-06",
+      "material": "",
+      "vinted_url": "https://www.vinted.nl/member/34138701-mandyhut",
+      "price": "38",
+      "available": true,
       "name": "Illustratie Ketting",
-      "category": "kettingen",
+      "id": "product-06",
       "image": "/images/product-06.jpeg",
-      "description": "Productinformatie volgt.",
-      "price": "",
-      "material": "",
-      "available": true,
-      "vinted_url": "https://www.vinted.nl/member/34138701-mandyhut"
+      "description": "My future",
+      "category": "kettingen"
     },
     {
-      "id": "product-07",
+      "material": "",
+      "vinted_url": "https://www.vinted.nl/member/34138701-mandyhut",
+      "price": "",
+      "available": true,
       "name": "Signature Ketting — Zilver",
-      "category": "kettingen",
+      "id": "product-07",
       "image": "/images/product-07.jpeg",
       "description": "Productinformatie volgt.",
-      "price": "",
-      "material": "",
-      "available": true,
-      "vinted_url": "https://www.vinted.nl/member/34138701-mandyhut"
+      "category": "kettingen"
     },
     {
-      "id": "product-08",
+      "material": "",
+      "vinted_url": "https://www.vinted.nl/member/34138701-mandyhut",
+      "price": "",
+      "available": true,
       "name": "Signature Ketting — Goud",
-      "category": "kettingen",
+      "id": "product-08",
       "image": "/images/product-08.jpeg",
       "description": "Productinformatie volgt.",
-      "price": "",
-      "material": "",
-      "available": true,
-      "vinted_url": "https://www.vinted.nl/member/34138701-mandyhut"
+      "category": "kettingen"
     },
     {
-      "id": "product-09",
+      "material": "",
+      "vinted_url": "https://www.vinted.nl/member/34138701-mandyhut",
+      "price": "",
+      "available": true,
       "name": "Figuur Ring — Zilver",
-      "category": "ringen",
+      "id": "product-09",
       "image": "/images/product-09.jpeg",
       "description": "Productinformatie volgt.",
-      "price": "",
-      "material": "",
-      "available": true,
-      "vinted_url": "https://www.vinted.nl/member/34138701-mandyhut"
+      "category": "ringen"
     },
     {
-      "id": "product-10",
+      "material": "",
+      "vinted_url": "https://www.vinted.nl/member/34138701-mandyhut",
+      "price": "",
+      "available": true,
       "name": "Line Art Ketting",
-      "category": "kettingen",
+      "id": "product-10",
       "image": "/images/product-10.jpeg",
       "description": "Productinformatie volgt.",
-      "price": "",
-      "material": "",
-      "available": true,
-      "vinted_url": "https://www.vinted.nl/member/34138701-mandyhut"
+      "category": "kettingen"
     }
   ]
 }
