@@ -2,7 +2,7 @@
 # GitHub OAuth-autorisatie is apart vereist; deze configuratie werkt niet zonder die koppeling.
 backend:
   name: github
-  repo: GITHUB_GEBRUIKERSNAAM/REPOSITORY_NAAM
+  repo: EvyBlossom/mandyhut-website
   branch: main
   # base_url: https://JOUW-VEILIGE-OAUTH-SERVICE
   # auth_endpoint: auth
