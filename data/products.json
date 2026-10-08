@@ -36,40 +36,40 @@
     {
       "material": "",
       "vinted_url": "https://www.vinted.nl/member/34138701-mandyhut",
-      "price": "",
+      "price": "24,99",
       "available": true,
       "name": "FINNEAS Ketting",
       "id": "product-04",
       "image": "/images/product-04.jpeg",
-      "description": "Productinformatie volgt.",
+      "description": "Stainless steel necklace",
       "category": "kettingen"
     },
     {
       "material": "",
       "vinted_url": "https://www.vinted.nl/member/34138701-mandyhut",
-      "price": "",
+      "price": "34,99",
       "available": true,
-      "name": "Zilveren Figuurketting",
+      "name": "Spider Pendant Necklace",
       "id": "product-05",
       "image": "/images/product-05.jpeg",
-      "description": "Productinformatie volgt.",
+      "description": "Stainless Steel",
       "category": "kettingen"
     },
     {
       "material": "",
       "vinted_url": "https://www.vinted.nl/member/34138701-mandyhut",
-      "price": "38",
+      "price": "34,99",
       "available": true,
-      "name": "Illustratie Ketting",
+      "name": "Future Necklace",
       "id": "product-06",
       "image": "/images/product-06.jpeg",
-      "description": "My future",
+      "description": "Stainless steel necklace",
       "category": "kettingen"
     },
     {
       "material": "",
       "vinted_url": "https://www.vinted.nl/member/34138701-mandyhut",
-      "price": "",
+      "price": "29,99",
       "available": true,
       "name": "Signature Ketting — Zilver",
       "id": "product-07",
@@ -80,23 +80,23 @@
     {
       "material": "",
       "vinted_url": "https://www.vinted.nl/member/34138701-mandyhut",
-      "price": "",
+      "price": "29,99",
       "available": true,
       "name": "Signature Ketting — Goud",
       "id": "product-08",
       "image": "/images/product-08.jpeg",
-      "description": "Productinformatie volgt.",
+      "description": "Stainless steel necklace",
       "category": "kettingen"
     },
     {
       "material": "",
       "vinted_url": "https://www.vinted.nl/member/34138701-mandyhut",
-      "price": "",
+      "price": "24,99",
       "available": true,
       "name": "Figuur Ring — Zilver",
       "id": "product-09",
       "image": "/images/product-09.jpeg",
-      "description": "Productinformatie volgt.",
+      "description": "Stainless steel",
       "category": "ringen"
     },
     {
@@ -107,15 +107,8 @@
       "name": "Line Art Ketting",
       "id": "product-10",
       "image": "/images/product-10.jpeg",
-      "description": "Productinformatie volgt.",
+      "description": "Stainless steel",
       "category": "kettingen"
-    },
-    {
-      "available": true,
-      "id": "uniek2",
-      "name": "mandy",
-      "category": "kettingen",
-      "image": "/images/uploads/632f174e-bfda-4a24-af3c-9c789c837047.png"
     }
   ]
 }
