@@ -38,10 +38,10 @@
       "vinted_url": "https://www.vinted.nl/member/34138701-mandyhut",
       "price": "24,99",
       "available": true,
-      "name": "FINNEAS Ketting",
+      "name": "FINNEAS Necklace",
       "id": "product-04",
       "image": "/images/product-04.jpeg",
-      "description": "Stainless steel necklace",
+      "description": "Stainless Steel Necklace",
       "category": "kettingen"
     },
     {
@@ -63,7 +63,7 @@
       "name": "Future Necklace",
       "id": "product-06",
       "image": "/images/product-06.jpeg",
-      "description": "Stainless steel necklace",
+      "description": "Stainless Steel Necklace",
       "category": "kettingen"
     },
     {
@@ -71,10 +71,10 @@
       "vinted_url": "https://www.vinted.nl/member/34138701-mandyhut",
       "price": "29,99",
       "available": true,
-      "name": "Signature Ketting — Zilver",
+      "name": "Signature Necklace — Silver",
       "id": "product-07",
       "image": "/images/product-07.jpeg",
-      "description": "Productinformatie volgt.",
+      "description": "Stainless Steel Necklace",
       "category": "kettingen"
     },
     {
@@ -82,10 +82,10 @@
       "vinted_url": "https://www.vinted.nl/member/34138701-mandyhut",
       "price": "29,99",
       "available": true,
-      "name": "Signature Ketting — Goud",
+      "name": "Signature Necklace — Gold",
       "id": "product-08",
       "image": "/images/product-08.jpeg",
-      "description": "Stainless steel necklace",
+      "description": "Stainless Steel Necklace",
       "category": "kettingen"
     },
     {
@@ -93,21 +93,21 @@
       "vinted_url": "https://www.vinted.nl/member/34138701-mandyhut",
       "price": "24,99",
       "available": true,
-      "name": "Figuur Ring — Zilver",
+      "name": "Figuur Ring — Silver",
       "id": "product-09",
       "image": "/images/product-09.jpeg",
-      "description": "Stainless steel",
+      "description": "Stainless Steel Ring",
       "category": "ringen"
     },
     {
       "material": "",
       "vinted_url": "https://www.vinted.nl/member/34138701-mandyhut",
-      "price": "",
+      "price": "34,99",
       "available": true,
-      "name": "Line Art Ketting",
+      "name": "Line Art Necklace",
       "id": "product-10",
       "image": "/images/product-10.jpeg",
-      "description": "Stainless steel",
+      "description": "Stainless Steel Necklace",
       "category": "kettingen"
     }
   ]
