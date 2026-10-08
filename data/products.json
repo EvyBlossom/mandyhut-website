@@ -109,6 +109,13 @@
       "image": "/images/product-10.jpeg",
       "description": "Productinformatie volgt.",
       "category": "kettingen"
+    },
+    {
+      "available": true,
+      "id": "uniek2",
+      "name": "mandy",
+      "category": "kettingen",
+      "image": "/images/uploads/632f174e-bfda-4a24-af3c-9c789c837047.png"
     }
   ]
 }
